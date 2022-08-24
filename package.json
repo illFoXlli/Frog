@@ -2,7 +2,7 @@
   "name": "my-litell-frog",
   "version": "1.0.0",
   "description": "",
-   "homepage": "https://illfoxlli.github.io/Frog/",
+   "homepage": "https://illfoxlli.github.io/",
   
   "scripts": {
     "start": "parcel src/*.html",
