@@ -5,7 +5,7 @@
   
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /frog/"
+    "build": "parcel build src/*.html --public-url "
   },
   "keywords": [
     "frog"
