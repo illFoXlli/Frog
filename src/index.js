@@ -1,4 +1,3 @@
-(() => {
   // пропишем функцию random
   const body = document.querySelector('body');
   const end = document.querySelector('.end');
@@ -50,4 +49,4 @@
   }
 
   // rotate-90-cw
-})();
+};
