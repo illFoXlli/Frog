@@ -50,4 +50,4 @@ function countdown() {
   }
 }
 
-// rotate-90-cw
+// rotate-90-cwваыа
